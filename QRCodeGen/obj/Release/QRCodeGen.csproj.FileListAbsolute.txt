@@ -1,0 +1,17 @@
+C:\Users\Sancho\source\repos\QRCodeGen\QRCodeGen\bin\Release\QRCodeGen.exe.config
+C:\Users\Sancho\source\repos\QRCodeGen\QRCodeGen\bin\Release\QRCodeGen.exe
+C:\Users\Sancho\source\repos\QRCodeGen\QRCodeGen\bin\Release\QRCodeGen.pdb
+C:\Users\Sancho\source\repos\QRCodeGen\QRCodeGen\bin\Release\QRCoder.dll
+C:\Users\Sancho\source\repos\QRCodeGen\QRCodeGen\obj\Release\QRCodeGen.csprojAssemblyReference.cache
+C:\Users\Sancho\source\repos\QRCodeGen\QRCodeGen\obj\Release\MainWindow.g.cs
+C:\Users\Sancho\source\repos\QRCodeGen\QRCodeGen\obj\Release\App.g.cs
+C:\Users\Sancho\source\repos\QRCodeGen\QRCodeGen\obj\Release\QRCodeGen_MarkupCompile.cache
+C:\Users\Sancho\source\repos\QRCodeGen\QRCodeGen\obj\Release\QRCodeGen_MarkupCompile.lref
+C:\Users\Sancho\source\repos\QRCodeGen\QRCodeGen\obj\Release\MainWindow.baml
+C:\Users\Sancho\source\repos\QRCodeGen\QRCodeGen\obj\Release\QRCodeGen.g.resources
+C:\Users\Sancho\source\repos\QRCodeGen\QRCodeGen\obj\Release\QRCodeGen.Properties.Resources.resources
+C:\Users\Sancho\source\repos\QRCodeGen\QRCodeGen\obj\Release\QRCodeGen.csproj.GenerateResource.cache
+C:\Users\Sancho\source\repos\QRCodeGen\QRCodeGen\obj\Release\QRCodeGen.csproj.CoreCompileInputs.cache
+C:\Users\Sancho\source\repos\QRCodeGen\QRCodeGen\obj\Release\QRCodeGen.csproj.CopyComplete
+C:\Users\Sancho\source\repos\QRCodeGen\QRCodeGen\obj\Release\QRCodeGen.exe
+C:\Users\Sancho\source\repos\QRCodeGen\QRCodeGen\obj\Release\QRCodeGen.pdb
